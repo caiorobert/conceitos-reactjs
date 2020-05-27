@@ -10,7 +10,7 @@
 
 ## :rocket: Sobre o desafio
 
-O desafio 03 do GoStack11 da **[Rocketseat](http://rocketseat.com.br/)** foi desenvolvido para entendimento dos conceitos de ReactJS. Este desafio consiste em utilizar o back-end desenvolvido no desafio 02 de **[Conceitos do NodeJS](https://github.com/caiorobert/conceitos-nodejs)**.
+O desafio 03 do GoStack11 da **[Rocketseat](http://rocketseat.com.br/)** foi desenvolvido para entendimento dos conceitos de ReactJS. Este desafio consiste em desenvolver o front-end em ReactJS utlizando o back-end desenvolvido no desafio 02 de **[Conceitos do NodeJS](https://github.com/caiorobert/conceitos-nodejs)**.
 
 O template está disponível na seguinte url: **[Acessar Template](https://github.com/Rocketseat/gostack-template-conceitos-reactjs)**
 
